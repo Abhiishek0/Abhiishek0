@@ -1,4 +1,3 @@
-
 # 💫 About Me
 
 👋 Hi, I'm Abhishek Singh, an MCA student passionate about software development, AI-powered applications, and problem-solving.
@@ -49,7 +48,7 @@ DSA • Backend Development • System Design • AI Integration
 - SEO & GEO Research
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/as_it_is_abhishekk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhisheksinghmca/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Abhishe98398340) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Abhi760p@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/as_it_is_abhishekk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhisheksinghmca/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Abhishe98398340) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Abhi760p@gmail.com) 
 
 # 💻 Tech Stack:
 
