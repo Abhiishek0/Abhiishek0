@@ -11,7 +11,7 @@
 - AI Resume Analyzer
 - AI-Powered Resume Builder
 - Expense Tracker
-- Calculator Applications
+- Password Generator
 - Database-driven Web Applications
 - React-based Frontend Projects
 
