@@ -25,9 +25,6 @@
 
 ## 🚀 Tech Stack
 
-### Languages
-Python • Java • SQL • HTML • CSS • JavaScript
-
 ### Frameworks & Libraries
 Flask • React
 
