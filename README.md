@@ -1,6 +1,55 @@
-# 💫 About Me:
-🔭 I’m currently working on real-world projects using Python, Flask, Firebase, and Android (Kotlin)<br>👯 I’m looking to collaborate on backend or full-stack projects where logic and structure actually matter<br>🤝 I’m looking for help with clean architecture, system design basics, and writing production-ready code<br>🌱 I’m currently learning data structures, backend optimization, and Android app development<br>💬 Ask me about Python, Flask apps, Firebase integration, Android basics, and project structuring<br>⚡ Fun fact: I learn faster by breaking things first and fixing them properly later
 
+# 💫 About Me
+
+👋 Hi, I'm Abhishek Singh, an MCA student passionate about software development, AI-powered applications, and problem-solving.
+
+🔭 Currently working on projects using Python, Java, Flask, React, Firebase, MySQL, and AI tools
+
+🌱 Learning Data Structures & Algorithms, Backend Development, System Design fundamentals, and AI-assisted development
+
+💻 Built projects such as:
+- AI Resume Analyzer
+- AI-Powered Resume Builder
+- Expense Tracker
+- Calculator Applications
+- Database-driven Web Applications
+- React-based Frontend Projects
+
+🤝 Interested in Backend Development, Full-Stack Development, AI Applications, and Software Engineering
+
+💬 Ask me about Python, Java, Flask, React, Firebase, MySQL, Git, and project development
+
+⚡ Fun fact: I enjoy building real-world projects and learning by experimenting with new technologies.
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+Python • Java • SQL • HTML • CSS • JavaScript
+
+### Frameworks & Libraries
+Flask • React
+
+### Databases
+MySQL • Firebase
+
+### Tools & Platforms
+Git • GitHub • VS Code • Netlify • Vercel
+
+### Currently Learning
+DSA • Backend Development • System Design • AI Integration
+
+---
+
+## 📌 Areas of Interest
+
+- Backend Development
+- Full Stack Development
+- Artificial Intelligence
+- Database Systems
+- Software Engineering
+- SEO & GEO Research
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/as_it_is_abhishekk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhisheksinghmca/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Abhishe98398340) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Abhi760p@gmail.com) 
